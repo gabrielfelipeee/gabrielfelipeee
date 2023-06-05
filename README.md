@@ -1,6 +1,7 @@
 ### Olá, eu sou Gabriel Felipe! :coffee:
 
-##### 📚 Estudando programação Front-End através da plataforma Alura!
+##### 📚 Cursando Análise e Desenvolvimento de Sistemas
+##### 📚 Estudando Programação Mobile na Alura
 
 ##
 
