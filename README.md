@@ -27,7 +27,7 @@
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-felipe-r-183265265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielfelipeee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gabrielfelipe.vercel.app/" target="_blank">
    <img src="https://camo.githubusercontent.com/ec16900c5e5ebe40d221eaa44f3b298b9ef9610ee56cb89deee41810759fc636/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504f5254464f4c494f2d3041313832453f7374796c653d666f722d7468652d6261646765" alt="Portfólio"></a>
   <a href="https://cursos.alura.com.br/vitrinedev/gabrielfelipeee" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev"></a>
