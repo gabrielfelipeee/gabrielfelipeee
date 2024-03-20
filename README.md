@@ -1,7 +1,6 @@
 ### Olá, eu sou Gabriel Felipe! :coffee:
 
 ##### 📚 Cursando Análise e Desenvolvimento de Sistemas
-##### 📚 Estudando Desenvolvimento Front-End na Alura
 
 ##
 
